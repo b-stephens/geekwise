@@ -87,7 +87,7 @@ body {
     background: #ffe135;
 }
 .column-button2 {
-   padding: 6px, 12px;
+    padding: 6px, 12px;
     border-radius: 8px;
     background: #a97448; 
 }
@@ -113,7 +113,7 @@ body {
 .recipe-image {
     display: block;
     margin: 0px auto;
-   padding-top: 50px;
+    padding-top: 50px;
 }
 .recipe-section {
     font-family: 'Fresca', sans-serif;
@@ -252,6 +252,11 @@ h2 {
     font-family: 'Exo 2', sans-serif;
     text-align: center;
 }
+.video-container {
+    height: 350px;
+    width: 50%;
+    margin: 0 auto;
+}
 /************start footer*********/
 
 .footer-container {
@@ -309,9 +314,7 @@ h2 {
     width: 100%;
     background-size: cover;
 }
-.about p {
-    
-}
+
 .selfie {
     padding: 15px;
     width: 70%;
